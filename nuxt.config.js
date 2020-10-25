@@ -8,7 +8,7 @@ export default {
       lang: 'fa-IR',
       // prefix: 'og: http://ogp.me/ns#',
     },
-    title: 'vtodoue',
+    title: 'keep',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
